@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="96px"
+   height="96px"
+   viewBox="0 0 96 96"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="96px.svg"
+   inkscape:export-filename="/home/vincentmaggard/WeatherUpdates/icons/96px.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs3737" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.3333333"
+     inkscape:cx="31.611174"
+     inkscape:cy="54.167546"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1528"
+     inkscape:window-height="836"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <metadata
+     id="metadata3740">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g3798"
+       style="fill:#0000ff"
+       transform="matrix(2.6020408,0,0,2.5649387,-15.237245,-1.93844)">
+      <ellipse
+         ry="9.75"
+         rx="12"
+         cy="14.25"
+         cx="18"
+         id="path3769"
+         style="fill:#0000ff" />
+      <ellipse
+         ry="7.875"
+         rx="12.5625"
+         cy="18"
+         cx="30.1875"
+         id="path3771"
+         style="fill:#0000ff" />
+      <ellipse
+         ry="9.75"
+         rx="12"
+         cy="22.5"
+         cx="18.75"
+         id="path3769-3"
+         style="fill:#0000ff" />
+      <ellipse
+         ry="9.75"
+         rx="12"
+         cy="25.875"
+         cx="28.125"
+         id="path3769-6"
+         style="fill:#0000ff" />
+    </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3800"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
+         id="flowRegion3802"
+         style="fill:#000000"><rect
+           id="rect3804"
+           width="73.125"
+           height="59.25"
+           x="8.625"
+           y="16.875"
+           style="fill:#000000" /></flowRegion><flowPara
+         id="flowPara3806">WeatherWX</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3808"
+       style="font-style:normal;font-weight:normal;font-size:18.66666603px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(1.2878955,-1.5348541,1.5348541,1.2878955,-8.387928,64.236249)"><flowRegion
+         id="flowRegion3810"
+         style="font-size:18.66666603px"><rect
+           id="rect3812"
+           width="87.75"
+           height="23.625"
+           x="8.25"
+           y="5.25"
+           style="font-size:18.66666603px" /></flowRegion><flowPara
+         id="flowPara3814"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:18.66666603px;font-family:Garuda;-inkscape-font-specification:'Garuda Bold'">WX</flowPara></flowRoot>  </g>
+</svg>

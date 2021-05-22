@@ -15,6 +15,7 @@ class Main_Window(Gtk.Window):
         Gtk.Window.__init__(self, title="Weather Updates")
         self.set_border_width(12)
         self.set_default_size(640, 480)
+        self.set_icon_from_file('/usr/share/pixmaps/WeatherUpdates.png')
         self.obs = None
         self.get_weather_btn = Gtk.Button(label="Get weather")
         self.loc_label = Gtk.Label(label="Weather Station Callsign:")
