@@ -1,8 +1,0 @@
-[Desktop Entry]
-Encoding=UTF-8
-Name=WeatherUpdates
-Exec=WeatherUpdates
-Icon=WeatherUpdates.png
-Type=Application
-Categories=Gtk;
-Terminal=false
